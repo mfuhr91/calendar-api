@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"calendar-app/models"
-	"calendar-app/repositories"
+	"calendar-api/models"
+	"calendar-api/repositories"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"

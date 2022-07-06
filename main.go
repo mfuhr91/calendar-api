@@ -1,7 +1,7 @@
 package main
 
 import (
-	"calendar-app/router"
+	"calendar-api/router"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"

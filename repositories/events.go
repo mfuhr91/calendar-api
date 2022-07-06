@@ -1,8 +1,8 @@
 package repositories
 
 import (
-	"calendar-app/database"
-	"calendar-app/models"
+	"calendar-api/database"
+	"calendar-api/models"
 	"context"
 	"errors"
 	"fmt"

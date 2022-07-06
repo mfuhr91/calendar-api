@@ -1,8 +1,8 @@
 package router
 
 import (
-	"calendar-app/controllers"
-	"calendar-app/repositories"
+	"calendar-api/controllers"
+	"calendar-api/repositories"
 	"github.com/gin-gonic/gin"
 )
 

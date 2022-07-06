@@ -1,4 +1,4 @@
-module calendar-app
+module calendar-api
 
 go 1.18
 
